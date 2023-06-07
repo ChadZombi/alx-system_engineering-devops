@@ -1,0 +1,2 @@
+#!/bin/bash
+cp -v *.html ../../al-system_enginnering_devops
